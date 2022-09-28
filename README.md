@@ -1,4 +1,6 @@
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/30565566/192803302-9b1a7369-c46f-45a2-8a20-6866a2f9c42a.gif">
+<div align="center">
+  <img  alt="Coding" width="600" height="400" src="https://user-images.githubusercontent.com/30565566/192803302-9b1a7369-c46f-45a2-8a20-6866a2f9c42a.gif">
+  </div>
 
 <h1 align="center">Hello 👋, I'm Chukwudi Edosa</h1>
 <h3 align="center">A Data Scientist from Nigeria</h3>!
