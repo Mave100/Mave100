@@ -3,7 +3,7 @@
   </div>
 
 <h1 align="center">Hello 👋, I'm Chukwudi Edosa</h1>
-<h3 align="center">Your go-to IT Specialist</h3>!
+<h3 align="center">I'm a developer</h3>!
 
 
 
