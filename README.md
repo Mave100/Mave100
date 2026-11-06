@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Full stack Development with the MERN Stack**
+- 🌱 I’m currently learning **Full stack Development**
 
-- 👯 I’m looking to collaborate on **Web Development projects👨‍💻**
+- 👯 I’m looking to collaborate on **Web Development projects👨‍💻 as well as Sustainability projects**
 
 - 💬 Ask me about **Web Development, Data Science and IT management**
 
